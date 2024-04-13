@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = eldavedibala@gmail.com
+	name = Eldave DIBALA
